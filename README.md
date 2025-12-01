@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 I’m **Khalid Hasan Zibon**, a **Senior Product Researcher** and UX / product designer with over a decade of experience, using **AI to design and build functional products and prototypes**.  
 The intersection of **Design, Psychology, AI, and Product** is my playground.
